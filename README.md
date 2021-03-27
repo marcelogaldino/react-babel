@@ -1,16 +1,13 @@
-Biblioteca para construção de interfaces
+# Conceitos ReactJS
 
-Utilizado para a construção de Single-Page Applications (SPA)
+ - Biblioteca para construção de interfaces
+ - Utilizado para a construção de Single-Page Applications (SPA)
+ - Chamado de framework devido a todo o sue ecosistema
+ - Tudo fica dentro do JavaScript (CSS, HTML, imagens)
+ - React - Biblioteca que contem o core
+ - ReactJS - React + itens eessenciais para o seu funcionamento na web, como o React router DOM
+ - React Native - React + itens essenciais para o seu funcionamento no mobile, Bridges para acesso as API's nativas do Android e IOS
 
-Chamado de framework devido a todo o sue ecosistema
-
-Tudo fica dentro do JavaScript (CSS, HTML, imagens)
-
-React - Biblioteca que contem o core
-
-ReactJS - React + itens eessenciais para o seu funcionamento na web, como o React router DOM
-
-React Native - React + itens essenciais para o seu funcionamento no mobile, Bridges para acesso as API's nativas do Android e IOS
 
 ```jsx
 // Exemplo de sintaxe do react e seu funcionamento
